@@ -1,2 +1,3 @@
+before_install: cd jaxrs-jersey
 language: java
 jdk: oraclejdk8
